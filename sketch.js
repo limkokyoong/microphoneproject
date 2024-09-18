@@ -1,5 +1,4 @@
 let mic;//variable to store the mp3 file
-let 
 let N = 200;
 let x = 40;
 let y = 40;
